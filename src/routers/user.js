@@ -10,9 +10,6 @@ const {
 
 const router = new express.Router();
 
-/* FOR TESTING */
-//sendWelcomeEmail('donmafijozo@gmail.com', 'Test');
-
 /*
   POST: Creating a user
     neccessary input: name, password, unique email
